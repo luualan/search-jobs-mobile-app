@@ -1,3 +1,15 @@
+## To Start App
+Clone the project, and then run the following command in the terminal from the root directory:
+- npm start.
+
+This will install the dependencies needed to run the project.
+
+Next, to start the app, run the following command in the terminal:
+- npx expo start --tunnel
+
+
+More info about Expo Router can be found below.
+
 # Expo Router Example
 
 Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
