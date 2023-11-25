@@ -1,10 +1,10 @@
-## About
+# About
 An application built with React Native that allows users to search for and apply to jobs.
-![image](https://github.com/luualan/search-jobs-mobile-app/assets/59902126/ece3ad58-fe94-4d53-8129-2a135f8020da)
+![image](https://github.com/luualan/search-jobs-mobile-app/assets/59902126/ece3ad58-fe94-4d53-8129-2a135f8020da) 
 ![image](https://github.com/luualan/search-jobs-mobile-app/assets/59902126/8fe8eff0-0bf5-4681-9678-e6124d183efb)
 
 
-## Initialize App
+# Initialize App
 1. Clone the project, and then run the following command in the terminal from the root directory to install the dependencies:
     ```sh
     npm install
@@ -20,7 +20,7 @@ An application built with React Native that allows users to search for and apply
     ```
    
 # Expo Router Example
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+- Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
 
 ## 🚀 How to use
 
