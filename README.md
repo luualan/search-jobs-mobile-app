@@ -2,7 +2,7 @@
 An application built with React Native that allows users to search and apply for jobs.
 Home Page                  |  Job Page
 :-----------------------------------:|:-----------------------------------:
-<img src ="https://github.com/luualan/search-jobs-mobile-app/assets/59902126/ece3ad58-fe94-4d53-8129-2a135f8020da" width="800" height="850"> | <img src ="https://github.com/luualan/search-jobs-mobile-app/assets/59902126/8fe8eff0-0bf5-4681-9678-e6124d183efb" width="800" height="850"> 
+<img src ="https://github.com/luualan/search-jobs-mobile-app/assets/59902126/ece3ad58-fe94-4d53-8129-2a135f8020da"> | <img src ="https://github.com/luualan/search-jobs-mobile-app/assets/59902126/8fe8eff0-0bf5-4681-9678-e6124d183efb"> 
 
 
 
