@@ -7,7 +7,7 @@ An application built with React Native that allows users to search for and apply
 ## Initialize App
 1. Clone the project, and then run the following command in the terminal from the root directory to install the dependencies:
     ```sh
-    npm start
+    npm install
     ```
  
 3. Go to RapidAPI website: https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch/, sign up, and subscribe to jsearch to get access to their API key. Once you have the key, insert it into the X-RapidAPI-Key property located in the following 2 files: 
